@@ -27,5 +27,3 @@ header = {
 输入标签。如“编程”就可以愉快地使用了，结果得到 book_list-编程.xlsx如下
 ![结果](https://raw.githubusercontent.com/LiangJunChan/MarkdownPhoto/master/uPic/结果.png)
 
-
-
